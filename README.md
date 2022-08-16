@@ -15,3 +15,4 @@
    <li>Aplicando vários níveis de dificuldade;</li>
     <li>Ajustando elementos finais no cursor e outros detalhes;</li>
     <li>Ajustando som de jogo para tela principal.</li>
+</ul>
